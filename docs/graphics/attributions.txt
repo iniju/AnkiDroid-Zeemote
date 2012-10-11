@@ -1,0 +1,4 @@
+Attribution of icon graphics:
+
+Gnome-joystick.svg came from David Vignoni, published under LGPL at https://commons.wikimedia.org/w/index.php?title=File:Gnome-joystick.svg
+Anki icon used as background to anki-joystick.xcf came from AnkiDroid project at https://github.com/iniju/Anki-Android/blob/58f719fe10b1dfb050cd68b8a6143921dcf0017a/res/drawable/anki.png 

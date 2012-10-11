@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Zeemote for AnkiDroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="stat_connected">%s connected</string>
+	<string name="stat_battery">Battery level %d%%</string>
+	<string name="toast_disconnected">AnkiDroid Controller service disabled</string>
+	<string name="toast_bluetooth_disabled">AnkiDroid Controller service requires enabled bluetooth</string>
+
+</resources>
